@@ -81,12 +81,6 @@ window.InputMasked = React.createClass({
     this.setMaskPlaceholder(appliedMask);
   },
 
-  componentDidUpdate: function() {
-    if(this.state.applyMask) {
-      this.applyMask();
-    }
-  },
-
   /* input mask functions */
 
   applyMask: function() {
