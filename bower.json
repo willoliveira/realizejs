@@ -28,7 +28,7 @@
   ],
 
   "dependencies": {
-    "materialize": "0.100.2",
+    "materialize": "0.97.0",
     "jquery-serialize-object": "~2.5.0",
     "string": "~3.3.0",
     "inputmask": "willoliveira/Inputmask#4.0.0-65"
